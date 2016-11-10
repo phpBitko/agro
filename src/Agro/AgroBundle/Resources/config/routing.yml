@@ -1,0 +1,3 @@
+agro_homepage:
+    path:     /agro
+    defaults: { _controller: AgroBundle:Default:index }
